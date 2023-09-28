@@ -1,0 +1,6 @@
+apple is a fruit
+mango is not a vegi
+banana is banana
+Java 
+Python
+C++
